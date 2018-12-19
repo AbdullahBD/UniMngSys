@@ -1,0 +1,175 @@
+﻿@using UniversityManagementMVCApp.Models
+
+@{
+    Layout = null;
+    List<Department> aDepartments = ViewBag.Department;
+    List<Semester> aSemesters = ViewBag.Semester;
+    string message = ViewBag.message;
+    string code = ViewBag.code;
+    string name = ViewBag.name;
+ 
+}
+@if (message == "Saved")
+{
+    <div class="alert alert-success">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Success!</strong> Course Saveed Successfully!
+    </div>
+}
+else if (message == "Not saved")
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Failed!</strong>Course Save Failed.
+    </div>
+}
+else if (message == "Code exists")
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Failed!</strong> "@code" already have in your Course list.
+    </div>
+}
+else if (message == "Name exists")
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Failed!</strong> "@name" already have in your Course list.
+    </div>
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Course</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+        label.error {
+            color: red
+        }
+        .firstColumn {
+            width: 150px;
+        }
+
+        .secondColumn {
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+<form method="POST" id="saveCourseForm" class="form-inline">
+    <div class="form-group">
+        <table width="450">
+            <tr>
+                <td class="firstColumn"><label for="Code">Code</label></td>
+                <td class="secondColumn"><input type="text" class="form-control" id="Code" name="Code" placeholder="Code"></td>
+            </tr>
+            <tr>
+                <td><label for="Name">Name</label></td>
+                <td><input type="text" class="form-control" id="Name" name="Name" placeholder="Name"></td>
+            </tr>
+            <tr>
+                <td><label for="Credit">Credit</label></td>
+                <td><input type="text" class="form-control" id="Credit" name="Credit" placeholder="Credit"></td>
+            </tr>
+            <tr>
+                <td><label for="Description">Description</label></td>
+                <td><textarea class="form-control" rows="3" id="Description" name="Description"></textarea></td>
+            </tr>
+            <tr>
+                <td><label for="DepartmentId">Department</label></td>
+                <td>
+                    <select id="DepartmentId" name="DepartmentId" class="form-control">
+                        <option value="" selected disabled>Select Department</option>
+                        @foreach (Department aDepartment in aDepartments)
+                        {
+                            <option value="@aDepartment.Id">@aDepartment.Code</option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="SemesterId">Semester</label></td>
+                <td>
+                    <select id="SemesterId" name="SemesterId" class="form-control">
+                        <option value="" selected disabled>Select Semester</option>
+                        @foreach (Semester aSemester in aSemesters)
+                        {
+                            <option value="@aSemester.Id">@aSemester.SemesterName</option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input class="btn btn-default" type="submit" value="Save"></td>
+            </tr>
+        </table>
+    </div>
+</form>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+<script src="~/Scripts/jquery-3.1.0.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script>
+    $(document).ready(function() {
+        $("#saveCourseForm").validate({
+            rules: {
+                Code: {
+                    required: true,
+                    minlength: 5
+
+                },
+                Name: "required",
+                Credit: {
+                    required: true,
+                    number: true,
+                    min: 0.5,
+                    max: 5.0
+
+                },
+                Description: "required",
+                DepartmentId: "required",
+                SemesterId: "required"
+
+            },
+            messages: {
+                Code: {
+                    required: "Please enter course code",
+                    minlength: "Minimum length of course code is five"
+
+                },
+                Name: "Please enter course name",
+                Credit: {
+                    required: "Please enter credit",
+                    number: "Credit must be number",
+                    min: "Minimum credit is 0.5",
+                    max: "Maximum credit is 5.0"
+
+                },
+                Description: "Please enter course description",
+                DepartmentId: "Please select department",
+                SemesterId: "Please select semester"
+            }
+        });
+    });
+</script>
+</body>
+</html>

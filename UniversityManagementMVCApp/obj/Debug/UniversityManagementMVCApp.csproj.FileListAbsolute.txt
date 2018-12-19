@@ -1,0 +1,110 @@
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\UniversityManagementMVCApp.dll.config
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\UniversityManagementMVCApp.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\UniversityManagementMVCApp.pdb
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Antlr3.Runtime.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\EntityFramework.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\EntityFramework.SqlServer.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Newtonsoft.Json.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Owin.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Helpers.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Mvc.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Optimization.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Razor.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.Deployment.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.Razor.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\WebGrease.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Helpers.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Mvc.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Optimization.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Razor.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.Deployment.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.Razor.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Newtonsoft.Json.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Antlr3.Runtime.pdb
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\EntityFramework.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\EntityFramework.SqlServer.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\obj\Debug\UniversityManagementMVCApp.csprojResolveAssemblyReference.cache
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\obj\Debug\UniversityManagementMVCApp.dll
+E:\Personal\Visual C#\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\obj\Debug\UniversityManagementMVCApp.pdb
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\UniversityManagementMVCApp.dll.config
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\UniversityManagementMVCApp.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\UniversityManagementMVCApp.pdb
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Antlr3.Runtime.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\EntityFramework.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\EntityFramework.SqlServer.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Newtonsoft.Json.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Owin.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Helpers.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Mvc.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Optimization.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Razor.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.Deployment.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.Razor.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\WebGrease.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Helpers.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Mvc.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Optimization.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.Razor.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.Deployment.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\System.Web.WebPages.Razor.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Newtonsoft.Json.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Antlr3.Runtime.pdb
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\EntityFramework.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\EntityFramework.SqlServer.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\obj\Debug\UniversityManagementMVCApp.csprojResolveAssemblyReference.cache
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\obj\Debug\UniversityManagementMVCApp.dll
+D:\Sourave\ASP.NET\BITM\Home File\UniversityManagementMVCApp\UniversityManagementMVCApp\obj\Debug\UniversityManagementMVCApp.pdb
